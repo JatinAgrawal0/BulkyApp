@@ -1,0 +1,132 @@
+﻿@page
+@using Bulky.Models
+@using Bulky.Utility
+@model RegisterModel
+
+@if (User.IsInRole(SD.Role_Admin))
+{
+    <h1 class="pt-4 text-center">Register - ADMIN PORTAL</h1>
+}
+
+<div class="container d-flex justify-content-center align-items-center ">
+    <div class="card" style="max-width: 800px; width: 100%; padding: 2rem;">
+        <form id="registerForm" class="row g-3" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2 class="text-center mb-4 create-account-button">Create a New Account</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="col-12">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Email" />
+                    <label asp-for="Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Name" class="form-control" aria-required="true" placeholder="Name" />
+                    <label asp-for="Input.Name">Name</label>
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.PhoneNumber" class="form-control" aria-required="true" placeholder="Phone Number" />
+                    <label asp-for="Input.PhoneNumber">Phone Number</label>
+                    <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.StreetAddress" class="form-control" aria-required="true" placeholder="Street Address" />
+                    <label asp-for="Input.StreetAddress">Street Address</label>
+                    <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.City" class="form-control" aria-required="true" placeholder="City" />
+                    <label asp-for="Input.City">City</label>
+                    <span asp-validation-for="Input.City" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.State" class="form-control" aria-required="true" placeholder="State" />
+                    <label asp-for="Input.State">State</label>
+                    <span asp-validation-for="Input.State" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.PostalCode" class="form-control" aria-required="true" placeholder="Postal Code" />
+                    <label asp-for="Input.PostalCode">Postal Code</label>
+                    <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-3">
+                <div class="form-floating mb-3">
+                    <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
+                        <option disabled selected>-Select Role-</option>
+                    </select>
+                    <label asp-for="Input.Role">Role</label>
+                </div>
+            </div>
+
+            <div class="col-3">
+                <div class="form-floating mb-3">
+                    <select asp-for="Input.CompanyID" style="display: none;" asp-items="@Model.Input.CompanyList" class="form-select">
+                        <option disabled selected>-Select Company-</option>
+                    </select>
+                    <label asp-for="Input.CompanyID">Company List</label>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Password" />
+                    <label asp-for="Input.Password">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Confirm Password" />
+                    <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <button id="registerSubmit" type="submit" class="w-100 btn btn-primary btn-lg">Register</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+     <script>
+        $(document).ready(function(){
+            $('#Input_Role').change(function(){
+                var selection= $('#Input_Role Option:Selected').text();
+                if(selection!='Company'){
+                    $('#Input_CompanyID').hide();
+                }
+                else{
+                    $('#Input_CompanyID').show();
+                }
+            })
+        })
+    </script>
+}
+

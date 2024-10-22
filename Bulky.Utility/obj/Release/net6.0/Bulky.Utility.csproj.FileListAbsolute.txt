@@ -1,0 +1,14 @@
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\bin\Release\net6.0\Bulky.Utility.deps.json
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\bin\Release\net6.0\Bulky.Utility.runtimeconfig.json
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\bin\Release\net6.0\Bulky.Utility.dll
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\bin\Release\net6.0\Bulky.Utility.pdb
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.dll
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\refint\Bulky.Utility.dll
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.pdb
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\agrwl\Desktop\UdemyProject\Bulky.Utility\obj\Release\net6.0\ref\Bulky.Utility.dll

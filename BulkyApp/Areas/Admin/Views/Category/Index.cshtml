@@ -1,0 +1,64 @@
+@model List<Category>
+
+<div class="container">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Category List
+            </h2>            
+
+        </div>
+        <div class="col-6 text-end">
+            <a asp-asp-controller="Category" asp-action="Create" class="btn btn-outline-primary">
+                <i class="bi bi-plus-circle"></i> Create New Category
+            </a>
+        </div>
+    </div>
+    @* here we are defining that our view will get a model which will be list
+    of category once we define that then we can use this model inside our HTML code*@
+
+    @* add view for Category Controller - So that Category List Visible on Screen*@
+
+    @* Add Categoty List into Header Go to Shared then _Layout.cshtml then Ul and UI elements *@
+
+
+    @* We have a controller CategoryController --> inside that -> action Methods -> that will be invoked and we will
+    have corresponding views related
+    folder with the same as the controller*@
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Category Name
+                </th>
+                <th>
+                    Display Order
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.OrderBy(u => u.DisplayOrder))
+            {
+
+                <tr>
+                    <td>@obj.Name</td>
+                    <td>
+                        @obj.DisplayOrder
+                    </td>
+                    <td>
+                        <div class="w-75 btn-group">
+                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.CategoryId"
+                        class="btn btn-dark mx-2 "> <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-asp-controller="Category" asp-action="Delete" asp-route-id="@obj.CategoryId" class= "btn btn-danger  mx-2">
+                                <i class="bi bi-trash3"></i> Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

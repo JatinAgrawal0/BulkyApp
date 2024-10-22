@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BulkyApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\0dcb1fd6-fbd2-4c30-884c-2ca0f891bf10.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0dcb1fd6-fbd2-4c30-884c-2ca0f891bf10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\34511fd7-2dfb-4beb-8ea6-48fa0260dc1e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\34511fd7-2dfb-4beb-8ea6-48fa0260dc1e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\436e4822-70b7-44d5-aa8b-ef1f385dad76.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\436e4822-70b7-44d5-aa8b-ef1f385dad76.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\537f0495-79ea-4ebd-ac74-d31408936dc2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\537f0495-79ea-4ebd-ac74-d31408936dc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\57d8513e-ca59-47b4-9657-69357d056803.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\57d8513e-ca59-47b4-9657-69357d056803.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\7f0c87ff-c46d-43f7-850d-6843222e5d0e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7f0c87ff-c46d-43f7-850d-6843222e5d0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\df3d90f8-1a85-482e-b9d3-a2ecc7e457f8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\df3d90f8-1a85-482e-b9d3-a2ecc7e457f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\e30b9fcc-1ea1-4fed-88f5-29207acf2718.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e30b9fcc-1ea1-4fed-88f5-29207acf2718.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\edd7c68b-5a82-4b95-8e6d-ac4a6f879391.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\edd7c68b-5a82-4b95-8e6d-ac4a6f879391.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\fc19c27a-f7ea-46dd-982c-9a87f4fb12bf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fc19c27a-f7ea-46dd-982c-9a87f4fb12bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\images\\product\\fd5ab9fc-e3bf-45dc-b78b-e16dff2645df.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fd5ab9fc-e3bf-45dc-b78b-e16dff2645df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\agrwl\\Desktop\\UdemyProject\\BulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.BulkyApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.BulkyApp.props",
+      "PackagePath": "build\\BulkyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyApp.props",
+      "PackagePath": "buildMultiTargeting\\BulkyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.BulkyApp.props",
+      "PackagePath": "buildTransitive\\BulkyApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

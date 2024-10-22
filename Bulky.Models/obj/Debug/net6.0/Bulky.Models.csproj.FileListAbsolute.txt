@@ -1,0 +1,14 @@
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\refint\Bulky.Models.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.pdb
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\bin\Debug\net6.0\Bulky.Models.deps.json
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\bin\Debug\net6.0\Bulky.Models.runtimeconfig.json
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\bin\Debug\net6.0\Bulky.Models.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\bin\Debug\net6.0\Bulky.Models.pdb
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\Bulky.Models.genruntimeconfig.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Models\obj\Debug\net6.0\ref\Bulky.Models.dll

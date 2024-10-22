@@ -1,0 +1,14 @@
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.deps.json
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.runtimeconfig.json
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.pdb
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\refint\Bulky.Utility.dll
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.pdb
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\jatin.agrawal\Desktop\SDP\UdemyProject\Bulky.Utility\obj\Debug\net6.0\ref\Bulky.Utility.dll

@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+     <NoWarn>SA1000;SA1001;SA1009;SA1012;SA1028;SA1633;SA1652;SA1133;SA1101;SA1508;SA1505;SA1124;;SA1508;SA1003;SA1119;
+     SA1110;SA1116;SA1117;SA1510;SA1500;SA1121;SA1500;SA1649;SA1513;SA1649;SA1005;SA1516;SA1013;SA1515;
+     SA1507;SA1309;SA1201;SA1512;SA1025</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.31" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.31" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.16.0" />
+    <PackageReference Include="Microsoft.Identity.Web.UI" Version="1.16.0" />
+    
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.0" />
+   
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      
+    </PackageReference>
+     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0" />
+   
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+   
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.0.0" />
+    
+    <PackageReference Include="Stripe.net" Version="41.0.0" />
+   
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+   
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+   
+    <PackageReference Include="StyleCop.Analyzers" Version="1.0.0" />
+   
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Project references -->
+    <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
+    <ProjectReference Include="..\Bulky.Utility\Bulky.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
