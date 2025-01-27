@@ -152,7 +152,7 @@ namespace BulkyApp.Areas.Customer.Controllers
 
             if (applicationUser.CompanyID.GetValueOrDefault() == 0)
             {
-                var domain = "https://localhost:7254/";
+                var domain = "https://jatin-bulkyapp.runasp.net/";
                 var options = new SessionCreateOptions
                 {
                     SuccessUrl = domain+$"customer/cart/OrderConfirmation?id={ShoppingCartVM.OrderHeader.OrderHeaderId}",
