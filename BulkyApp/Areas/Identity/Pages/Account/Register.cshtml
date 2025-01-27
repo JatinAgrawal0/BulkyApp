@@ -1,4 +1,4 @@
-﻿@page
+@page
 @using Bulky.Models
 @using Bulky.Utility
 @model RegisterModel
@@ -16,7 +16,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
 
             <div class="col-12">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Email" />
                     <label asp-for="Input.Email">Email</label>
                     <span asp-validation-for="Input.Email" class="text-danger"></span>
@@ -24,7 +24,7 @@
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.Name" class="form-control" aria-required="true" placeholder="Name" />
                     <label asp-for="Input.Name">Name</label>
                     <span asp-validation-for="Input.Name" class="text-danger"></span>
@@ -32,7 +32,7 @@
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.PhoneNumber" class="form-control" aria-required="true" placeholder="Phone Number" />
                     <label asp-for="Input.PhoneNumber">Phone Number</label>
                     <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
@@ -40,7 +40,7 @@
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.StreetAddress" class="form-control" aria-required="true" placeholder="Street Address" />
                     <label asp-for="Input.StreetAddress">Street Address</label>
                     <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
@@ -48,31 +48,31 @@
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.City" class="form-control" aria-required="true" placeholder="City" />
                     <label asp-for="Input.City">City</label>
                     <span asp-validation-for="Input.City" class="text-danger"></span>
                 </div>
             </div>
 
-            <div class="col-md-3">
-                <div class="form-floating mb-3">
+           <div class="col-md-4">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.State" class="form-control" aria-required="true" placeholder="State" />
                     <label asp-for="Input.State">State</label>
                     <span asp-validation-for="Input.State" class="text-danger"></span>
                 </div>
             </div>
 
-            <div class="col-md-3">
-                <div class="form-floating mb-3">
+            <div class="col-md-4">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.PostalCode" class="form-control" aria-required="true" placeholder="Postal Code" />
                     <label asp-for="Input.PostalCode">Postal Code</label>
                     <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
                 </div>
             </div>
 
-            <div class="col-3">
-                <div class="form-floating mb-3">
+            <div class="col-4">
+                <div class="form-floating mb-2">
                     <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
                         <option disabled selected>-Select Role-</option>
                     </select>
@@ -80,17 +80,17 @@
                 </div>
             </div>
 
-            <div class="col-3">
-                <div class="form-floating mb-3">
+            <div id="CompanyList"  class="col-12" style="display:none;">
+                <div class="form-floating mb-2">
                     <select asp-for="Input.CompanyID" style="display: none;" asp-items="@Model.Input.CompanyList" class="form-select">
                         <option disabled selected>-Select Company-</option>
                     </select>
-                    <label asp-for="Input.CompanyID">Company List</label>
+                    <label  asp-for="Input.CompanyID">Company List</label>
                 </div>
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Password" />
                     <label asp-for="Input.Password">Password</label>
                     <span asp-validation-for="Input.Password" class="text-danger"></span>
@@ -98,7 +98,7 @@
             </div>
 
             <div class="col-md-6">
-                <div class="form-floating mb-3">
+                <div class="form-floating mb-2">
                     <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Confirm Password" />
                     <label asp-for="Input.ConfirmPassword">Confirm Password</label>
                     <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
@@ -121,9 +121,12 @@
                 var selection= $('#Input_Role Option:Selected').text();
                 if(selection!='Company'){
                     $('#Input_CompanyID').hide();
+                    $('#CompanyList').hide();
                 }
                 else{
                     $('#Input_CompanyID').show();
+                    $('#CompanyList').show();
+
                 }
             })
         })
